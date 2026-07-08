@@ -2,7 +2,7 @@
 I submitted this report during final exams of my college
 * When enumerating subdomains i found a subdomain **empresa.domain.com**
 * But this domain redirect me to the authentication page but that doesn't mean this domain contain nothing
-* I fuzzed directories and I found a plase **empresa.domain.com/envs** but this also redirect toward the authentication page
+* I fuzzed directories and I found a path **empresa.domain.com/envs** but this also redirect toward the authentication page
 * Then i also fuzzed for files and i found location **https://empresa.domain.com/envs/env.json** When i opened this JSON this opened wihtout any authentication and has lot of data from which this file also exposes a paybable Google API key
 
  This is my Report
