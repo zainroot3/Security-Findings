@@ -11,7 +11,7 @@ I submitted this report during final exams of my college
  ![Report](/Bancoplata/assets/4-2.png)
  ![Report-2](/Bancoplata/assets/4-3.png)
 
- But my badluck I got thir report duplicate by just 3 hours 
+ But my badluck I got this report duplicate by just 3 hours 
 
  ![Result](/Bancoplata/assets/4-4.png)
 
