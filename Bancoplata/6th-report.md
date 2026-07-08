@@ -75,4 +75,4 @@ But this report also got duplicated but no need to worry of duplicate its just a
 ## Note
 * Don't forgot to set opacity of real page to 0.001
 * You can create multiple fake buttons just copying the button code and place it on exact location according to browser
-* Change <URL> to your vulnerable URL
+* Change placeholder to your vulnerable URL
