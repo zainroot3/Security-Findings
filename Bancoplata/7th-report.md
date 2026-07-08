@@ -24,7 +24,7 @@ Here is report
 ![Report](/Bancoplata/assets/7-2.png)
 ![Report-2](/Bancoplata/assets/7-3.png)
 
-But my badluck I also got this duplicated but the good news is that triager appreciated me and this is valid bug and the original report got 9.3 serveriy and only 1 person found this before me
+But my badluck I also got this duplicated but the good news is that triager appreciated me and this is valid bug and the original report got **9.3 severity** and only 1 person found this before me
 
 ![Result](/Bancoplata/assets/7-4.png)
 
