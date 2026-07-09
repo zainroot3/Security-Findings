@@ -26,5 +26,5 @@ And you can see this returns the flag
 
 ![Result](/Hackerone-CTFs/assets/Screenshot_20260709_214433.png)
 
-## Lession
+## Lesson
 Static page doesn't mean that the page is fully secure you can check source aur requests of this page and then try to manipulate requests that can be a great vector of attack
