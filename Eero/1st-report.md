@@ -1,1 +1,1 @@
-
+I was learning oAuth in tryhackme and portswigger in parallel here I was studying about redirection and I become curios to test this on real world so I choosed a target to test how actually real world oAuth looks like
