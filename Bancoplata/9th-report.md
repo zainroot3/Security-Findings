@@ -105,3 +105,7 @@ function openAndAttack() {
 
 * And i found that the main domain really sending otps and number to my controlled domains then I reported this bug but unfortunately you can seee result
 
+![Result](/Bancoplata/assets/22.png)
+
+## Conclusion
+Duplicate doesn't mean I am wrong this proves I am on the path where already seniors are and I am currently at 17 so this is also a great achievement for me and this was critical bug
